@@ -1,0 +1,10 @@
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\bin\Debug\WikiParse.exe.config
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\bin\Debug\WikiParse.exe
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\bin\Debug\WikiParse.pdb
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.csprojAssemblyReference.cache
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.WikiParse.resources
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.Properties.Resources.resources
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.csproj.GenerateResource.cache
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.csproj.CoreCompileInputs.cache
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.exe
+C:\Users\Nicho\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.pdb
